@@ -1,4 +1,4 @@
-# Finetuning FasterRCNN
+# Finetuning FasterRCNN by PyTorch
 
 This file perform finetuning based on the pre-trained FasterRCNN model (fasterrcnn_resnet50_fpn).
 
